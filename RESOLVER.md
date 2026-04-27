@@ -48,6 +48,7 @@ The `think` gate is not a pattern-match entry below — it is the **first gate**
 | Use `saveAsTable(...)` | `skills/infrastructure/unity-catalog/SKILL.md` |
 | Register a table in Hive Metastore or Unity Catalog | `skills/infrastructure/unity-catalog/SKILL.md` |
 | Touch `s3a://hive-warehouse/*`, `s3://silver/*`, `s3://gold/*`, or any shared bucket | `skills/infrastructure/unity-catalog/SKILL.md` |
+| Query FEC data / assess FEC pipeline coverage / check what the enterprise pipeline has processed / candidate readiness assessment | `electinfo_claude_skills/skills/data/fec-pipeline-context/SKILL.md` |
 | Run a batch data processing job | `electinfo_claude_skills/skills/pipeline-guard/SKILL.md` |
 | Schedule a recurring pipeline job | `skills/coding/pipeline-jobs/SKILL.md` + `electinfo_claude_skills/skills/rundeck-job/SKILL.md` |
 
